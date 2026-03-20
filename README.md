@@ -20,5 +20,5 @@ This project highlights my foundation in **Problem Solving** and **Team Leadersh
 *Developed by Mohamed Balighe and:
 -Mohamed Farouk
 -Mohamed Walid
--Rahma Mohsen
+-Rahma Sayed
 -Abdelrahman Nasser.
